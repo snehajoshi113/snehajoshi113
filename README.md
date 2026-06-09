@@ -1,6 +1,5 @@
-## 📊 LeetCode Stats
+## GitHub Stats
 
-![LeetCode Solved](https://img.shields.io/badge/dynamic/json?label=LeetCode%20Solved&color=brightgreen&query=$.totalSolved&url=https://leetcode-stats-api.vercel.app/snehajoshi113)
-![Easy](https://img.shields.io/badge/dynamic/json?label=Easy&color=success&query=$.easySolved&url=https://leetcode-stats-api.vercel.app/snehajoshi113)
-![Medium](https://img.shields.io/badge/dynamic/json?label=Medium&color=yellow&query=$.mediumSolved&url=https://leetcode-stats-api.vercel.app/snehajoshi113)
-![Hard](https://img.shields.io/badge/dynamic/json?label=Hard&color=red&query=$.hardSolved&url=https://leetcode-stats-api.vercel.app/snehajoshi113)
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehajoshi113&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehajoshi113&layout=compact)
