@@ -27,3 +27,15 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+## Featured Projects
+
+🌐 Portfolio Website
+
+🐍 Python Projects
+
+📚 Data Structures & Algorithms
+
+🔐 Cybersecurity Projects
+
+📊 Data Science Projects
