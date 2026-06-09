@@ -1,3 +1,15 @@
+# Hi, I'm Sneha Joshi 👋
+
+🎓 B.Tech Student
+
+💻 Aspiring Software Developer
+
+🔐 Cybersecurity Enthusiast
+
+🌱 Currently learning Django, Django REST Framework, Data Structures & Algorithms
+
+🚀 Looking for Software Development and Cybersecurity Internship Opportunities
+
 ## GitHub Stats
 
 ![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehajoshi113&show_icons=true)
